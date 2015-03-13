@@ -1,5 +1,5 @@
 <?php
-
+/* TO DELETE */
 namespace EPFC\Bundle\BrailleBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
