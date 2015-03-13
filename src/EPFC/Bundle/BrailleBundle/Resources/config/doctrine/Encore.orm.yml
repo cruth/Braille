@@ -1,0 +1,15 @@
+EPFC\Bundle\BrailleBundle\Entity\Encore:
+    type: entity
+    table: null
+    repositoryClass: EPFC\Bundle\BrailleBundle\Entity\EncoreRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        nom:
+            type: string
+            length: 255
+    lifecycleCallbacks: {  }

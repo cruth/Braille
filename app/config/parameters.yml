@@ -1,0 +1,1 @@
+{ parameters: { database_driver: pdo_mysql, database_host: 127.0.0.1, database_port: null, database_name: braille, database_user: root, database_password: null, mailer_transport: smtp, mailer_host: 127.0.0.1, mailer_user: null, mailer_password: null, locale: fr, secret: 036e9fd7ddbc2e4dea92d558f26fa3d219fcf925, database_path: null } }

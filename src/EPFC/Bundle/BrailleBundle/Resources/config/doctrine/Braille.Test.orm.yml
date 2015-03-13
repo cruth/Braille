@@ -1,0 +1,17 @@
+EPFC\Bundle\BrailleBundle\Entity\Braille\Test:
+    type: entity
+    table: null
+    repositoryClass: EPFC\Bundle\BrailleBundle\Entity\Braille\TestRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        nom:
+            type: string
+            length: '50'
+        homme:
+            type: boolean
+    lifecycleCallbacks: {  }

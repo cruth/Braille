@@ -1,0 +1,3 @@
+epfc_braille_homepage:
+    path:     /catalogue
+    defaults: { _controller: EPFCBrailleBundle:Default:index }

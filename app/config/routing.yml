@@ -1,0 +1,7 @@
+epfc_braille:
+    resource: "@EPFCBrailleBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation

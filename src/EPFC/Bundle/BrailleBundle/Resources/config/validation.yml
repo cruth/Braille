@@ -1,0 +1,7 @@
+## YAML Template.
+---
+# src/Acme/BlogBundle/Resources/config/validation.yml
+EPFC\BrailleBundle\Entity\Test:
+    properties:
+        nom:
+            - NotBlank: ~
